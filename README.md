@@ -1,9 +1,8 @@
 # 🚀 URL Threat Detector  
 Detect Scam Emails and Malicious URLs with Flask + Gemini AI  
 
-![Project Screenshot](https://via.placeholder.com/1200x600)  
+![Uploading image.png…]()
 
----
 
 ## 📌 Overview  
 The **URL Threat Detector** is a Flask-based application that detects and classifies URLs and emails as **benign**, **phishing**, **malware**, or **defacement** using **Gemini AI**. This project enhances online security by identifying and blocking malicious links and scam emails.  
